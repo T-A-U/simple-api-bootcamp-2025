@@ -21,7 +21,7 @@ function createQuote(){
             //     document.querySelector('h3').innerHTML=`<iframe src= "${data.url}"></iframe> <br> <br>`+ data.explanation
                 
             // }
-            document.querySelector('span').innerText=data.author
+            document.querySelector('h2').innerText=data.author
             document.querySelector('p').innerText=data.quote
             
 

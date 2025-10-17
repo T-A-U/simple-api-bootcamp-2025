@@ -15,7 +15,7 @@ Using the fundamentals
 
 
 ## Lessons Learned:
-
+Extremely barebones getting an api request/fetch seems easy enough
 
 
 
